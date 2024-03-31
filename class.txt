@@ -1,1 +1,13 @@
-TESTSETSETSTEESWt
+Crimson
+Orange
+Blue
+Cyan
+Yellow
+Charcoal
+Khaki
+Charcoal
+Silver
+Fuchsia
+Purple
+Brown
+Red
